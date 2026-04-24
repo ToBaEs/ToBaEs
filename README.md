@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a Computer Programming student at Nişantaşı University.<br>🤝 I’m looking help for Java,Linux Server,Blender,C# and Unity.<br>🌱 I’m currently learning: Java,JavaScript,Blender,Illustrator  and Premiere Pro.
+🔭 I’m currently a Computer Programming student at Nişantaşı University.<br>🤝 I’m looking help for Java, Linux Server, Blender.<br>🌱 I’m currently learning: Java, JavaScript, Blender and Premiere Pro.
 
 
 ## 🌐 Socials:
